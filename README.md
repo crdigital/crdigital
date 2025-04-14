@@ -2,7 +2,7 @@
 <!--![](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)-->
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30" height="30"> Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30" height="30"> Eu sou Clayton Rodrigues
 <hr/>
-![Anurag's Github Stats](https://github-readme-stats.vercel.app/api?username=crdigital&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crdigital)](https://github.com/crdigital/github-readme-stats)
 
 
 <!--
