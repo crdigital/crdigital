@@ -1,5 +1,5 @@
 ![alt text](https://capsule-render.vercel.app/api?type=waving&height=150&color=2c3e50&fontAlign=50&fontAlignY=50&textBg=false)
-![=x50=50x](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)
+![alt text =x50 =50x](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)
 
 <!--
 **crdigital/crdigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
