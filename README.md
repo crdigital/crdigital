@@ -1,5 +1,6 @@
 ![alt text](https://capsule-render.vercel.app/api?type=waving&height=150&color=2c3e50&fontAlign=50&fontAlignY=50&textBg=false)
-![alt text =x50 =50x](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)
+<!--![](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)-->
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50" height="50"> Hello World! Eu sou Clayton Rodrigues
 
 <!--
 **crdigital/crdigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
