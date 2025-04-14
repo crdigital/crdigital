@@ -1,6 +1,9 @@
 ![alt text](https://capsule-render.vercel.app/api?type=waving&height=150&color=2c3e50&fontAlign=50&fontAlignY=50&textBg=false)
 <!--![](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)-->
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50" height="50"> Hello World! Eu sou Clayton Rodrigues
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30" height="30"> Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30" height="30"> Eu sou Clayton Rodrigues
+<hr/>
+![Anurag's Github Stats](https://github-readme-stats.vercel.app/api?username=crdigital&show_icons=true&theme=radical)
+
 
 <!--
 **crdigital/crdigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
