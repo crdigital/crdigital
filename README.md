@@ -1,4 +1,4 @@
-#https://capsule-render.vercel.app/api?type=waving&height=150&color=2c3e50&fontAlign=50&fontAlignY=50&textBg=false
+![alt text](https://capsule-render.vercel.app/api?type=waving&height=150&color=2c3e50&fontAlign=50&fontAlignY=50&textBg=false)
 ## Hi there 👋
 
 <!--
